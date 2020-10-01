@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Drink_hw/1.0.0": {
+        "runtime": {
+          "Drink_hw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drink_hw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

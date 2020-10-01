@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.exe
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.deps.json
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.dll
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\bin\Debug\netcoreapp3.1\Drink_hw.pdb
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\obj\Debug\netcoreapp3.1\Drink_hw.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\obj\Debug\netcoreapp3.1\Drink_hw.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\obj\Debug\netcoreapp3.1\Drink_hw.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\obj\Debug\netcoreapp3.1\Drink_hw.dll
+C:\Users\Anatoliy\source\repos\Drink_hw\Drink_hw\obj\Debug\netcoreapp3.1\Drink_hw.pdb
